@@ -23,13 +23,14 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+
 ![127 0 0 1_5500_index html](https://github.com/avinash4364/huddle-landing-page/assets/24203618/e0e3a664-907e-46de-b2c7-75b0dd52dd09)
 ![127 0 0 1_5500_index html (1)](https://github.com/avinash4364/huddle-landing-page/assets/24203618/eaacc5b9-6393-41e2-99ba-865c01c3b1ac)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/avinash4364/huddle-landing-page)
+- Live Site URL: [live site URL](https://avinash4364.github.io/huddle-landing-page/)
 
 ## My process
 
@@ -45,7 +46,7 @@ Users should be able to:
 
 - [resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/min-height) - This helped me understand how min-height(can't be inherited), max-height and height are related to each other and how the final height of the container is calculated.
 
-- [resource 2](https://chat.openai.com/c/1d0d26db-95b1-4bdd-a3ca-f347739d37a2) - ChatGPT helped me understand the CSS documentation of w3c which further helped me understand the min-height property. 
+- [resource 2](https://chat.openai.com/c/1d0d26db-95b1-4bdd-a3ca-f347739d37a2) - ChatGPT helped me understand the CSS documentation of w3c which further helped me understand the min-height property.
 
 ## Author
 
