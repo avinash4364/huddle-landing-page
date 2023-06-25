@@ -23,6 +23,8 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
+![127 0 0 1_5500_index html](https://github.com/avinash4364/huddle-landing-page/assets/24203618/e0e3a664-907e-46de-b2c7-75b0dd52dd09)
+![127 0 0 1_5500_index html (1)](https://github.com/avinash4364/huddle-landing-page/assets/24203618/eaacc5b9-6393-41e2-99ba-865c01c3b1ac)
 
 ### Links
 
